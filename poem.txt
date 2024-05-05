@@ -4,6 +4,7 @@ I see red
 I see yellow
 I see pink
 I see green
+I see indigo
 I see purple
 I see orange
 I see blue
