@@ -6,3 +6,4 @@ I see pink
 I see green
 I see purple
 I see orange
+I see blue
